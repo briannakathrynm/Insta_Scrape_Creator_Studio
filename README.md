@@ -1,4 +1,4 @@
-# Insta_Scrape-Creator-Studio
+# Insta_Scrape_Creator_Studio
 Scrapes Instagram posts of Facebook Creator Studio Instagram Account
 
 # Instructions Prior to Running:
